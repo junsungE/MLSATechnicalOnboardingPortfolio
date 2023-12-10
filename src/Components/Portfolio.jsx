@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/desk.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Microsoft Learn Student Ambassadors",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The Microsoft Learn Student Ambassadors program is a global group of on-campus ambassadors who are eager to help students and their communities, lead in their local tech circles, and develop technical and career skills for the future. As a Student Ambassador, you might find yourself organizing a campus or community hackathon, mentoring other students, or volunteering with an elementary school STEM class.",
+    url: "https://mvp.microsoft.com/en-US/studentambassadors/profile/f7361afd-e192-4bab-aa09-019ea43ac186",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Microsoft Learn Profile",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Currently have 2 certifications.",
+    url: "https://learn.microsoft.com/en-us/users/71623546",
   },
   {
-    title: "My Resume Site",
+    title: "My Portfolio Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created from Microsoft's portfolio workshop and deployed to Azure Static Web Apps. Includes my experience and abilities.",
+    url: "https://fantastic-space-disco-v559vgjqp652x49p-1234.app.github.dev/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Global Azure 2021 Korea - Track D",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Azure for Juniors.",
+    url: "https://www.youtube.com/watch?v=t7FRuf4QmYE",
   },
 ];
 
